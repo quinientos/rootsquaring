@@ -10,8 +10,6 @@ import mpmath as mp
 import math
 import time
 
-import newton_ids_alg as ni
-
 #mp.precision = 30
 
 class Polynomial:
